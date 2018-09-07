@@ -1,30 +1,28 @@
 # Homework on NodeJS - Set1
 
-Answer the following questions. Note your answer to the MOST correct answer at the *bottom* of each question.
+Answer the following questions. Note your answer to the MOST correct answer at the *bottom* of each question (e.g. THE CORRECT ANSWER IS Z)
 
-1. NodeJS is written in:
+1. NodeJS is written in what programming language?:
+
 ```
-C
-C++
-Java
-JavaScript
-Perl
-PHP
-Python
+A. Clipper
+B. C++
+C. Java
+D. JavaScript
+E. Perl
 ```
-2. NPM is:
+2. NPM is a... :
+
 ```
-a browser plugin
-a frontend framework
-a JS package manager
-a set of browser tools
-an open registry of packages
+A. a browser plugin
+B. a frontend framework
+C. a JS package manager
+D. a set of browser tools
 ```
-3. Which if the following NodeJS import is valid?
+3. Which if the following is the correct way to pull in code from another module in NodeJS?
+
 ```
-let B = require("../B.js")
-let [C] = require("C")
 let A1 = import("A")
-let A2 = import("./A")
-let A2 = import("../A")
+let B = require("../B.js")
+let [C] = function() {include("C");}
 ```
