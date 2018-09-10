@@ -6,7 +6,7 @@ Answer the following questions. Note your answer to the MOST correct answer at t
 
 ```
 A. Clipper
-B. C++
+B. C++    X
 C. Java
 D. JavaScript
 E. Perl
@@ -16,13 +16,13 @@ E. Perl
 ```
 A. a browser plugin
 B. a frontend framework
-C. a JS package manager
+C. a JS package manager   X
 D. a set of browser tools
 ```
 3. Which if the following is the correct way to pull in code from another module in NodeJS?
 
 ```
 let A1 = import("A")
-let B = require("../B.js")
+let B = require("../B.js")  X
 let [C] = function() {include("C");}
 ```
